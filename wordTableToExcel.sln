@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordTableToExcel", "wordTableToExcel\wordTableToExcel.csproj", "{580616BC-0C62-4DD9-A9FF-CC0663CF2EE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordTableToExcelConsoleApp", "wordTableToExcelConsoleApp\wordTableToExcelConsoleApp.csproj", "{D654BB40-8C8D-4FB0-B3F3-353FE0367570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580616BC-0C62-4DD9-A9FF-CC0663CF2EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580616BC-0C62-4DD9-A9FF-CC0663CF2EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580616BC-0C62-4DD9-A9FF-CC0663CF2EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580616BC-0C62-4DD9-A9FF-CC0663CF2EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D654BB40-8C8D-4FB0-B3F3-353FE0367570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D654BB40-8C8D-4FB0-B3F3-353FE0367570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D654BB40-8C8D-4FB0-B3F3-353FE0367570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D654BB40-8C8D-4FB0-B3F3-353FE0367570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC431AB5-4EC7-4BAF-AFA4-A0286C557903}
+	EndGlobalSection
+EndGlobal
